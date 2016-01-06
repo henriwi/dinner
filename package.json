@@ -1,0 +1,19 @@
+{
+  "name": "dinner",
+  "version": "1.0.0",
+  "description": "What's for dinner?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriwi/dinner.git"
+  },
+  "author": "Henrik Wingerei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriwi/dinner/issues"
+  },
+  "homepage": "https://github.com/henriwi/dinner#readme"
+}
